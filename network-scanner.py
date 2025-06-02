@@ -17,4 +17,4 @@ def scan_network(ip_range):
 
 # Ejemplo de uso
 print('Inicio de pruebas: -----------------------------------------')
-scan_network("192.168.0.0/24")  # Escanear toda una subred
+scan_network("192.168.1.0/24")  # Escanear toda una subred
